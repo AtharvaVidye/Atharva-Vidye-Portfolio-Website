@@ -1,16 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-=======
-=======
->>>>>>> 7f524eaa826ecb9a2549283bb92443bfd31241f4
 # Atharva-Vidye-s-Portfolio
 Welcome to my portfolio built with React! This project serves as a comprehensive showcase of my professional journey, skills, and achievements. It includes detailed sections on my background, key projects, and work experience, all designed to present a cohesive and engaging view of my capabilities as a software developer.
 
@@ -56,8 +43,3 @@ Deploy your portfolio using platforms like Vercel or Netlify. Connect your GitHu
 
 Contact
 You can reach me at atharvavidye2001@gmail.com or connect with me on LinkedIn.
-<<<<<<< HEAD
->>>>>>> origin/main
-=======
->>>>>>> 7f524eaa826ecb9a2549283bb92443bfd31241f4
-"# AtharvaVidye-Atharva-Vidye-Portfolio-Website" 
